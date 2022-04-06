@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+# Amir Siraj
+# email amaressabit0314@gmail.com
 
 This project is a starting point for a Flutter application.
 <img src="images/demo0.jpg" wight="230" height="430">
